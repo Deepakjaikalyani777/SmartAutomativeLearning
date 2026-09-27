@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<automotiveApp>
+    <!-- media: we expose a MediaBrowserService. template: we expose a CarAppService. -->
+    <uses name="media" />
+    <uses name="template" />
+</automotiveApp>
